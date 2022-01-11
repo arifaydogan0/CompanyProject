@@ -23,5 +23,10 @@ namespace DataAccess.Concrete
             return Convert.ToDateTime(param);
         }
 
+        static void method() 
+        {
+
+        }
+
     }
 }
