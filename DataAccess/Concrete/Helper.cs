@@ -23,5 +23,9 @@ namespace DataAccess.Concrete
             return Convert.ToDateTime(param);
         }
 
+        void testmetot() 
+        {
+        }
+
     }
 }
